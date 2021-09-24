@@ -72,7 +72,7 @@ public class Login extends Activity //Login is an activity
 	    //Variables for Time and Date
 	    SimpleDateFormat dateFormat;
 	  	NumberFormat nf;
-	  	long time;
+	  	short  time;
 	  	Timestamp t; 	
 	  	String Today; 
 	    	
